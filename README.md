@@ -10,3 +10,5 @@ Indeholder feature-engineering, dummy-korrektioner, NA-håndtering, reproducerba
 
 Opdelingen er valgt for at give læseren frihed til selv at vælge fokus:
 enten hele data-pipeline eller direkte modellering og resultater.
+
+Der findes ligeledes også PDF versioner
